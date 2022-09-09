@@ -7,7 +7,7 @@
   */
 int main(void)
 {
-	putchar n;
+	int n;
 
 	for (n = '0'; n <= '9'; n++)
 	{
@@ -18,3 +18,4 @@ int main(void)
 
 	return (0);
 }
+
