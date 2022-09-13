@@ -1,6 +1,7 @@
 #include "temitope.h"
+
 /**
-  * main - Prints Temitope
+  * main - Entry point
   *
   * Return: Always 0 (Success)
   */
@@ -15,5 +16,6 @@
 	 _purchar('p');
 	 _purchar('e');
 	 _purchar('\n');
+
 	 return(0);
-}
+ }
