@@ -14,4 +14,5 @@
                  _putchar(love);
          }
          _putchar('\n');
+        return (0);
  }
