@@ -5,13 +5,15 @@
   * Return: Always 0 (Success)
   */
 
- void print_alphabet(void)
+ int main(void)
  {
-         char alpha;
+         char love;
 
-         for (alpha = 'a'; alpha <= 'z'; alpha++)
+         for (love = 'a'; love <= 'z'; love++)
          {
-                 _putchar(alpha);
+                 _putchar(love);
          }
          _putchar('\n');
+          
+          return (0);
  }

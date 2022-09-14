@@ -1,4 +1,4 @@
-#include "temitope.h"
+#include "_putchar.h"
 
 /**
   * main - Entry point
@@ -7,15 +7,7 @@
   */
  int main(void)
  {
-         _putchar('T');
-         _purchar('e');
-	 _purchar('m');
-	 _purchar('i');
-	 _purchar('t');
-	 _purchar('o');
-	 _purchar('p');
-	 _purchar('e');
-	 _purchar('\n');
+        _purchar('\n');
 
 	 return(0);
  }
