@@ -5,8 +5,8 @@
   * Return: Always 0 (Success)
   */
 
- int main(void)
- {
+ void print_alphabet(void)
+}
          char love;
 
          for (love = 'a'; love <= 'z'; love++)
@@ -14,6 +14,6 @@
                  _putchar(love);
          }
          _putchar('\n');
-          
+ i         
           return (0);
  }
